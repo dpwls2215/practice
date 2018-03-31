@@ -7,7 +7,7 @@ int main()
 {
 	int M, N, k;
 	int x[100], y[100];
-    int i;
+        int i;
 	
 	scanf("%d %d", &M, &N);
 	input(x, M);
